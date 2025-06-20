@@ -1,4 +1,4 @@
-# 💸 Expense Tracker (Command-Line App)
+# 💸 Expense Tracker 
 
 A simple, beginner-friendly Expense Tracker built using **Python, Pandas, and NumPy**.  
 Track your spending, analyze where your money goes, and generate insightful reports – all from your terminal!
@@ -56,4 +56,3 @@ Do you want to view a pie chart? (y/n): y
 ## 🧑‍💻 Author
 
 **Gokul**  
-Python Developer & Learner
